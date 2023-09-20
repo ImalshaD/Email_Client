@@ -1,0 +1,8 @@
+Official: nimal,nimal@gmail.com,ceo
+Office_friend: Imalsha,imalsha@cse.lk,CEO,2000/8/20
+Personal: Damkith,Kith,plid475@gmail.com,2000/8/20
+Personal: Imalsha,Im,plid475@gmail.com,2000/8/20
+Personal: Imlasha,Im,plid475@gmail.com,2000/10/1
+Office_friend: Imalsha,imalsha.20@cse.mrt.ac.lk,Student,2000/10/1
+
+
